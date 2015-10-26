@@ -1,3 +1,4 @@
 print("Hello world from Travis CI")
 
-prin "Testing failure"
+print "Testing failure"
+print "Failure fixed"
